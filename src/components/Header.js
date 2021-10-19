@@ -43,7 +43,6 @@ export default Header;
 
 const Nav = styled.div`
     height: 70px;
-    /* height: 120px; */
     background: #090b13;
     display: flex;
     align-items: center;
